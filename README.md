@@ -24,6 +24,6 @@ code .
 
 Pull requestler kabul edilir. Büyük değişikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
 
-## L'cense
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
